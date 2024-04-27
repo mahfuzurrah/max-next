@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a750bf4.css",
+    "main.js": "/static/js/main.efa70ebc.js",
+    "static/media/bg.png": "/static/media/bg.f429f20d4f65ad33ddfe.png",
+    "static/media/deactivated_accounts.svg": "/static/media/deactivated_accounts.4e2478f97f7c8c7322a1b0b568fe388d.svg",
+    "static/media/Change Password.svg": "/static/media/Change Password.05b8868ed06cd1a491f15357649d1388.svg",
+    "static/media/transactions.svg": "/static/media/transactions.9fbe927558231d77da345a69933ecb76.svg",
+    "static/media/payment.svg": "/static/media/payment.d7188dd6f8f3b8db6a0aaefef7cdbdce.svg",
+    "static/media/star.svg": "/static/media/star.5b6dbb1e55ea5a1041d9df4e762f9bbf.svg",
+    "static/media/filter.svg": "/static/media/filter.1f2c3dc7397b711349212e472d5eb19b.svg",
+    "static/media/active_accounts.svg": "/static/media/active_accounts.400fd4a8e2f603756a445dda0badd3a1.svg",
+    "static/media/logo.svg": "/static/media/logo.f7cf7bf014884bfdb7d40bfbfeb19e28.svg",
+    "static/media/live_stream.svg": "/static/media/live_stream.e041a279df7303ccd8194cec427251a8.svg",
+    "static/media/Log Out.svg": "/static/media/Log Out.575a084831e031acfa80c1a39db2bba3.svg",
+    "index.html": "/index.html",
+    "static/media/rating.svg": "/static/media/rating.48529153159051b736ccd04ec7590f95.svg",
+    "static/media/Profile.svg": "/static/media/Profile.bbb423f3e473de59f697ec86a56ad5da.svg",
+    "static/media/up.svg": "/static/media/up.5ef74c7b8a33f96867b99de595bce97b.svg",
+    "main.6a750bf4.css.map": "/static/css/main.6a750bf4.css.map",
+    "main.efa70ebc.js.map": "/static/js/main.efa70ebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a750bf4.css",
+    "static/js/main.efa70ebc.js"
+  ]
+}
